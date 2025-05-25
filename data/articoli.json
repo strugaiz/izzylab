@@ -1,0 +1,16 @@
+[
+  {
+    "titolo": "Recensione Samsung S24 Ultra",
+    "descrizione": "Un mostro di potenza, ma ne vale davvero il prezzo? Scopriamolo.",
+    "url": "articoli/samsung-s24.html",
+    "data": "2025-05-25",
+    "categoria": "recensione"
+  },
+  {
+    "titolo": "Novità WWDC 2025: cosa aspettarsi",
+    "descrizione": "Apple si prepara a rivelare iOS 19, nuovi Mac e molto altro.",
+    "url": "articoli/wwdc2025.html",
+    "data": "2025-05-24",
+    "categoria": "news"
+  }
+]
